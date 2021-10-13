@@ -37,6 +37,7 @@
         <li class="checkmark mb-6">Project one. Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
         <li class="checkmark mb-6">Project one. Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
         <li class="checkmark mb-6">Project one. Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+        <li class="checkmark mb-6">Project one. Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
       </ul> 
     </div> <!-- End Projects -->
 
